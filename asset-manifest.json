@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ErrorHandleSite/static/css/main.4b79a627.css",
+    "main.js": "/ErrorHandleSite/static/js/main.a60b8139.js",
+    "index.html": "/ErrorHandleSite/index.html",
+    "main.4b79a627.css.map": "/ErrorHandleSite/static/css/main.4b79a627.css.map",
+    "main.a60b8139.js.map": "/ErrorHandleSite/static/js/main.a60b8139.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b79a627.css",
+    "static/js/main.a60b8139.js"
+  ]
+}
